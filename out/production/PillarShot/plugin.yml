@@ -1,0 +1,8 @@
+name: PillarShot
+main: acse.PillarShot.PillarShot
+author: MikroAcse
+depend: [WorldGuard]
+version: 1.1.0
+commands:
+    pillarshot:
+        aliases: [ps, pshot]

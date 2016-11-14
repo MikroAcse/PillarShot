@@ -1,6 +1,4 @@
 # PillarShot 1.1.0
-Tired of the pillars on the server? This is the solution!
-
 Config:
 ```yaml
 debug: false
